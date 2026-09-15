@@ -1,0 +1,6 @@
+{
+  "name": "HID Interface Runner",
+  "description": "Developer and accessibility utility for sending keyboard input to connected host devices over USB HID gadget interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
